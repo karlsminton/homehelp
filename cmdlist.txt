@@ -1,2 +1,4 @@
+apt update && apt install nodejs npm -y
 npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save
 npm install express --save
+
